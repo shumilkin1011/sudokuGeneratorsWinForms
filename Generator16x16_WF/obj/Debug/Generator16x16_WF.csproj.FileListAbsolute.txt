@@ -1,0 +1,24 @@
+C:\Users\Sergey\Documents\Visual Studio 2019\Projects\repos\Generator16x16_WF\Generator9x9_WF\bin\Debug\Generator9x9_WF.exe.config
+C:\Users\Sergey\Documents\Visual Studio 2019\Projects\repos\Generator16x16_WF\Generator9x9_WF\bin\Debug\Generator9x9_WF.exe
+C:\Users\Sergey\Documents\Visual Studio 2019\Projects\repos\Generator16x16_WF\Generator9x9_WF\bin\Debug\Generator9x9_WF.pdb
+C:\Users\Sergey\Documents\Visual Studio 2019\Projects\repos\Generator16x16_WF\Generator9x9_WF\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Sergey\Documents\Visual Studio 2019\Projects\repos\Generator16x16_WF\Generator9x9_WF\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Sergey\Documents\Visual Studio 2019\Projects\repos\Generator16x16_WF\Generator9x9_WF\obj\Debug\Generator16x16_WF.csprojAssemblyReference.cache
+C:\Users\Sergey\Documents\Visual Studio 2019\Projects\repos\Generator16x16_WF\Generator9x9_WF\obj\Debug\Generator16x16_WF.Form1.resources
+C:\Users\Sergey\Documents\Visual Studio 2019\Projects\repos\Generator16x16_WF\Generator9x9_WF\obj\Debug\Generator9x9_WF.Properties.Resources.resources
+C:\Users\Sergey\Documents\Visual Studio 2019\Projects\repos\Generator16x16_WF\Generator9x9_WF\obj\Debug\Generator16x16_WF.csproj.GenerateResource.cache
+C:\Users\Sergey\Documents\Visual Studio 2019\Projects\repos\Generator16x16_WF\Generator9x9_WF\obj\Debug\Generator16x16_WF.csproj.CopyComplete
+C:\Users\Sergey\Documents\Visual Studio 2019\Projects\repos\Generator16x16_WF\Generator9x9_WF\obj\Debug\Generator9x9_WF.exe
+C:\Users\Sergey\Documents\Visual Studio 2019\Projects\repos\Generator16x16_WF\Generator9x9_WF\obj\Debug\Generator9x9_WF.pdb
+C:\Users\Sergey\Desktop\Generator16x16_WF\Generator9x9_WF\bin\Debug\Generator9x9_WF.exe.config
+C:\Users\Sergey\Desktop\Generator16x16_WF\Generator9x9_WF\bin\Debug\Generator9x9_WF.exe
+C:\Users\Sergey\Desktop\Generator16x16_WF\Generator9x9_WF\bin\Debug\Generator9x9_WF.pdb
+C:\Users\Sergey\Desktop\Generator16x16_WF\Generator9x9_WF\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Sergey\Desktop\Generator16x16_WF\Generator9x9_WF\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Sergey\Desktop\Generator16x16_WF\Generator9x9_WF\obj\Debug\Generator16x16_WF.csprojAssemblyReference.cache
+C:\Users\Sergey\Desktop\Generator16x16_WF\Generator9x9_WF\obj\Debug\Generator16x16_WF.Form1.resources
+C:\Users\Sergey\Desktop\Generator16x16_WF\Generator9x9_WF\obj\Debug\Generator9x9_WF.Properties.Resources.resources
+C:\Users\Sergey\Desktop\Generator16x16_WF\Generator9x9_WF\obj\Debug\Generator16x16_WF.csproj.GenerateResource.cache
+C:\Users\Sergey\Desktop\Generator16x16_WF\Generator9x9_WF\obj\Debug\Generator16x16_WF.csproj.CopyComplete
+C:\Users\Sergey\Desktop\Generator16x16_WF\Generator9x9_WF\obj\Debug\Generator9x9_WF.exe
+C:\Users\Sergey\Desktop\Generator16x16_WF\Generator9x9_WF\obj\Debug\Generator9x9_WF.pdb
